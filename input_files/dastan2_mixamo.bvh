@@ -274,7 +274,7 @@ ROOT Hips
       {
         OFFSET 0.0000 44.5232 0.0000
         CHANNELS 3 Yrotation Xrotation Zrotation
-        JOINT LeftToeBase
+        JOINT LeftToe
         {
           OFFSET 0.0000 14.9844 0.0000
           CHANNELS 3 Yrotation Xrotation Zrotation
@@ -298,7 +298,7 @@ ROOT Hips
       {
         OFFSET 0.0000 44.5232 0.0000
         CHANNELS 3 Yrotation Xrotation Zrotation
-        JOINT RightToeBase
+        JOINT RightToe
         {
           OFFSET 0.0000 14.9844 0.0000
           CHANNELS 3 Yrotation Xrotation Zrotation
